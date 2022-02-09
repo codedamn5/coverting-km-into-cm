@@ -1,0 +1,4 @@
+# coverting-km-into-cm
+print('converting kms into cms')
+a=int(input('enter the kilometers')) 
+b=a*100 print(b,'cm')
